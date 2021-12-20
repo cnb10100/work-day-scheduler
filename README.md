@@ -1,3 +1,10 @@
-# work-day-scheduler
+# Work-Day-Scheduler
 
-I spoke with my instructors and notified them my challenge would be a day late as a result of a sickness over the weekend. However, I still wanted to submit the repo so it can be reviewed later.
+## Purpose of application
+
+- To allow the user to plan out their workday, a productivity app that reacts in real time using Moment.js.
+
+
+## Link to the deployed application:
+https://cnb10100.github.io/work-day-scheduler/
+
